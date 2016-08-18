@@ -1,2 +1,1 @@
-# hello-world
-getting started with a hello to the world. Cheers.
+Yay removed everything of master. :)
